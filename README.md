@@ -1,1 +1,1 @@
-# Minimum-Loss2
+# Minimum-Loss2 This code finds the minimum financial loss when selling a house by sorting the prices in descending order and only considering cases where a higher price was bought before a lower price. It returns the smallest positive difference between such pairs as the minimum loss.
